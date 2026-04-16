@@ -1,4 +1,4 @@
-#  Aegis-Grid
+#  DEPI-Grid
 
 **Enterprise-Grade Hybrid Renewable Energy Management & Self-Healing System**
 
@@ -6,7 +6,7 @@
 
 ##  Overview
 
-Aegis-Grid is an AI-powered platform designed to optimize the performance, reliability, and maintenance of hybrid renewable energy systems (Wind & Solar).
+DEPI-Grid is an AI-powered platform designed to optimize the performance, reliability, and maintenance of hybrid renewable energy systems (Wind & Solar).
 
 The system simulates a real-world environment using historical datasets and is built to seamlessly transition into live IoT-based infrastructure. It combines Machine Learning, Data Engineering, and Generative AI to deliver predictive insights and automated repair guidance.
 
@@ -150,7 +150,7 @@ The system is built around four main pillars:
 
 ---
 
-##  What Makes Aegis-Grid Unique?
+##  What Makes DEPI-Grid Unique?
 
 * Combines **Predictive + Prescriptive Maintenance**
 * Integrates **Machine Learning with Generative AI**
